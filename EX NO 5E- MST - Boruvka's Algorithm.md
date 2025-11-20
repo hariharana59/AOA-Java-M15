@@ -24,8 +24,8 @@ Find the MST using Boruvka's Algorithm for a weighted undirected graph.
 ```
 /*
 Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
+Developed by: HARIHARAN A
+Register Number:  212223110013
 */
 import java.util.*;
 
